@@ -1,7 +1,7 @@
 # DL_image_classification
 Deep Learning project applied to CIFAR-10. CNNs and Transformers are implemented, with data augmentation, transfer learning, and GANs techniques. ResNet, ViT, and MobileNetV2 achieve the best performance. The work combines experimentation, critical analysis, and practical learning in computer vision.
 
-Este trabajo académico tiene como objetivo aplicar técnicas de Deep Learning al problema de clasificación de imágenes en el dataset CIFAR-10, compuesto por 60.000 imágenes de 10 categorías. El proyecto sigue una metodología estructurada que incluye la preparación de los datos, el análisis exploratorio, la selección de modelos, el entrenamiento con validación y test, y la evaluación mediante métricas estándar y análisis de errores.
+Este proyecto tiene como objetivo aplicar técnicas de Deep Learning al problema de clasificación de imágenes en el dataset CIFAR-10, compuesto por 60.000 imágenes de 10 categorías. El proyecto sigue una metodología estructurada que incluye la preparación de los datos, el análisis exploratorio, la selección de modelos, el entrenamiento con validación y test, y la evaluación mediante métricas estándar y análisis de errores.
 
 En la fase inicial se realizó un análisis exploratorio de los datos (EDA), verificando la distribución balanceada de las clases, calculando estadísticas de los canales RGB, generando imágenes promedio por clase y revisando posibles anomalías. Con esta base se seleccionaron diferentes arquitecturas de Deep Learning que combinan CNNs y Transformers, aprovechando la capacidad de las primeras para extraer características jerárquicas y la de los segundos para modelar relaciones globales.
 
